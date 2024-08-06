@@ -2,6 +2,9 @@
 
 **A guided project from DataCamp´s career track: [Data Analyst in Power BI.](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi)**
 
+![human resources word cloud](https://github.com/user-attachments/assets/07873f1b-6f8c-4140-b5c3-747e1a0a69e8)
+
+
 ## Table Of Contents
 
 - [HR analytics project in Power BI](#hr-analytics-project-in-power-bi)
