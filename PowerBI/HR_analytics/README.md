@@ -25,18 +25,17 @@ Using Power BI, I imported, cleaned, and analyzed six CSV datasets: `Date`, `Edu
 I initiated a new Power BI report and imported five CSV datasets: `EducationLevel`, `Employee`, `RatingLevel`, `SatisfiedLevel`, and `PerformanceRating`. To clarify the table roles, I prepended 'Fact' or 'Dim' to each table name, designating them as either fact or dimension tables. Next, I ensured that the columns were correctly formatted following the [Metadata table](metadata.md). Then, I created a new date calculated table using the DAX code from [DimDate.txt](DimDate.txt) file.
 
 ![Renaming the columns](https://github.com/user-attachments/assets/b20dcb79-c69c-4187-a0e8-1f70c925edc3)
-<br>
 
-Once the data was loaded and cleaned, I create a data model to establish the relatioships between tables. 
 
+<br/>Once the data was loaded and cleaned, I create a data model to establish the relatioships between tables. This image shows the initial data model.
 ![Initial model](https://github.com/user-attachments/assets/38db1b21-02cc-480a-bea1-857af4841be2)
-This image shows the initial data model.
-<br>
 
+<br/>This image show the final data model used for the analysis.
 ![The final model ](https://github.com/user-attachments/assets/404b18c9-f94a-494a-b5f1-e42d99c90d5e)
-This image show the final data model used for the analysis.
 
 
+<br/>
+as
 
 
 
